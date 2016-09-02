@@ -11,4 +11,4 @@ install.packages("~DTWscore_1.0.tar.gz",repos=NULL,type="source")
 
 library(DTWscore)
 
-# Now you can use "DTWscore" package, the detailed operation instruction is in the "DTWscore_pac" profile.
+# Now you can use "DTWscore" package, the detailed operation instruction is in the "DTWscore_pac.pdf" profile.
